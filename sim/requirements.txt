@@ -7,7 +7,7 @@ click==8.0.1
 cloudpickle==2.0.0
 cryptography==3.4.8
 docker==5.0.2
-faiss-cpu==1.7.1.post2
+faiss-cpu==1.7.3
 Flask==2.0.1
 Flask-And-Redis==1.0.0
 Flask-RESTful==0.3.9
@@ -32,7 +32,7 @@ pytz==2021.1
 PyYAML==5.4.1
 redis==3.5.3
 requests==2.26.0
-scipy==1.7.1
+scipy==1.7.3
 scp==0.14.1
 six==1.16.0
 style==1.1.6
